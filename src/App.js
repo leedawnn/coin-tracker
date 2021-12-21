@@ -30,4 +30,7 @@ function App() {
   );
 }
 
+// TODO: input창 만들어서 내가 가진 달러로 얼만큼의 비트코인을 살 수 있는지 확인하기
+// TODO: 에러 없애기..
+
 export default App;
